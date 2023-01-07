@@ -42,7 +42,7 @@
 }
 .prevous-year-content {
   margin-top: 370px;
-  margin-right: 100px;
+  margin-right: 220px;
   margin-bottom: 215px;
 }
 .previous-year-title {
@@ -80,7 +80,8 @@ ul li:before {
   margin-top: 10px;
 }
 .my-plans-title {
-  margin-bottom: 50px;
+  margin-bottom: 100px;
+  text-align: center;
 }
 .my-plans-content {
   display: flex;

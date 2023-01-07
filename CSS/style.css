@@ -42,7 +42,7 @@
 }
 .prevous-year-content {
   margin-top: 370px;
-  margin-right: 150px;
+  margin-right: 100px;
   margin-bottom: 215px;
 }
 .previous-year-title {
@@ -56,14 +56,14 @@
   font-size: 16px;
   color: #444343;
 }
-li {
+ul li {
   list-style: none;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 10px;
   color: #444343;
   margin-bottom: 10px;
 }
-li:before {
+ul li:before {
   content: "✓";
   padding-right: 10px;
   color: green;
@@ -202,6 +202,7 @@ li:before {
   color: #f15b22;
   border-radius: 5px;
 }
+/* Extra Feature */
 .middle-container {
   text-align: center;
   margin-top: 100px;

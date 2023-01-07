@@ -202,3 +202,30 @@ li:before {
   color: #f15b22;
   border-radius: 5px;
 }
+.middle-container {
+  text-align: center;
+  margin-top: 100px;
+}
+.profile-image {
+  height: 300px;
+  width: 300px;
+  border-radius: 300%;
+  margin-bottom: 30px;
+}
+.skill-image {
+  height: 300px;
+  width: 300px;
+  border-radius: 300%; 
+  margin-top: 40px;
+}
+.redChilli {
+  height: 300px;
+  width: 300px;
+  border-radius: 300%; 
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+hr {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}

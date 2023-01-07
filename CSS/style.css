@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+}
+/* header tyles */
+.header {
+  background-image: url("../images/banner/banner1.png");
+  width: 1600px;
+  height: 808px;
+}
+.header-content {
+  position: absolute;
+  left: 800px;
+  top: 200px;
+  text-align: right;
+}
+.header-title {
+  font-weight: 700;
+  font-size: 65px;
+  margin-bottom: 24px;
+}
+.header-description {
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 32px;
+  color: #444343;
+}
+.header-btn {
+  color: #ffffff;
+  background: #fd6e0a;
+  border-radius: 5px;
+  border: 0;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 18px 35px;
+}
+
+/* prevous year styles */
+.previous-year {
+  display: flex;
+  gap: 87px;
+}
+.prevous-year-content {
+  margin-top: 370px;
+  margin-right: 150px;
+  margin-bottom: 215px;
+}
+.previous-year-title {
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 24px;
+}
+.previous-year-description {
+  margin-bottom: 16px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+}
+li {
+  list-style: none;
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  margin-bottom: 10px;
+}
+li:before {
+  content: "✓";
+  padding-right: 10px;
+  color: green;
+}
+.person-image {
+  margin-top: 131px;
+  margin-left: 100px;
+  margin-bottom: 130px;
+}
+
